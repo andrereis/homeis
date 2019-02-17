@@ -1,0 +1,58 @@
+body{
+    background-color: #252729;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 90%;
+}
+
+img{
+    width: 100%;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#bebebe;
+    text-decoration: none;
+}
+
+.logo{
+    width: 100%;
+}
+
+.sectionTitle{
+    font-family: 'Gaegu', cursive;
+    margin-top: 0px;
+}
+
+.sectionText{
+    text-align: justify;
+}
+
+.content {
+    width: 75%;
+    margin: auto;
+}
+
+.card {
+    background: #414141;
+    margin-top: 20px;
+    padding: 15px;
+}
+
+.footer {
+    font-family: 'Lato', sans-serif;
+    font-size: 11pt;
+    background-color: #414141;
+    height: 25px;
+    margin-top: 65px;
+    text-align: left;
+}
+
+.footer p{
+    padding-top: 2.5px;
+    padding-left: 15px;
+}
